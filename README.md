@@ -3,7 +3,7 @@
 
 | Nama  | Division        | Sub-Division  |
 | ----- | ---------- | ---------- |
-| Name here   | ELC/PGR | Sub-div |
+| Nibras   | ELC | Microcontroller |
 
 ## Early Procedure
 
