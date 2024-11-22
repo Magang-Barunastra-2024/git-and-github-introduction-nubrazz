@@ -5,6 +5,11 @@
 | ----- | ---------- | ---------- |
 | Nibras Faros Siahaan | ELC | Microcontroller |
 
+|Nama|Divisi|Sub-Divisi|
+|----|------|----------|
+|Nibras Faros Siahaan| ELC | Microcontroller|
+
+
 ## Cara Menggunakan Git dan Github
 ### 1. Unduh dan pasang Git pada PC/Laptop
     https://git-scm.com/downloads
