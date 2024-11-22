@@ -6,9 +6,9 @@
 
 ## Cara Menggunakan Git dan Github
 ### 1. Unduh dan pasang Git pada PC/Laptop
-    https://git-scm.com/downloads
+Kunjungi https://git-scm.com/downloads dan download installer sesuai dengan platform dan device
 ### 2. Buat Akun Github
-    https://github.com/join
+Jika kamu belum punya akun maka kunjungi https://github.com/join dan buat akun
 ### 3. Mengatur Git Bash atau Terminal
     git config --global user.name (masukkan username)
     git config --global user.email (masukkan email)
